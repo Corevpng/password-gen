@@ -1,0 +1,14 @@
+{
+  "name": "sifregen",
+  "version": "1.0.0",
+  "description": "Kullanışlı Şifre Oluşturma Modülü",
+  "main": "blog.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hype",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
